@@ -1,4 +1,4 @@
-# Music Genre Classification (GTZAN Dataset)
+# Music Genre Classification 
 
 This project implements **music genre classification** using the **GTZAN dataset**.  
 We extract **MFCC features** from audio files using **Librosa** and train a **neural network** to classify songs into 10 genres.
